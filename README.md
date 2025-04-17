@@ -10,6 +10,7 @@ javac src/org/theitside/MyHttpServer.java
 Then run:
 
 cd src
+
 java org.theitside.MyHttpServer
 
 Hope you find this useful.
